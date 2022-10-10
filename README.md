@@ -1,2 +1,6 @@
-<h2>Ekran Görüntüsü Eklendi</h2>
-![](ekran.png)
+
+
+<h2>Ekran Görüntüsü Eklendi</h>
+
+
+<img src="./ekran.png">
